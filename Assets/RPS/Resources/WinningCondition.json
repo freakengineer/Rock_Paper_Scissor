@@ -1,0 +1,9 @@
+{
+    "winningConditions": {
+        "ROCK":["SCISSOR", "LIZARD"],
+        "PAPER":["ROCK", "SPOC"],
+        "SCISSOR":["PAPER", "LIZARD"],
+        "SPOC":["SCISSOR", "ROCK"],
+        "LIZARD":["SPOC", "PAPER"]
+  }
+}
